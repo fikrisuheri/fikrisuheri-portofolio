@@ -5,7 +5,7 @@ const ProgressComp = ({title,now,label}) => {
     return (
         <div>
             <label className="titleSkill">{ title }</label>
-            <ProgressBar now={now} label={label} style={{ height: 30 }} />
+            <ProgressBar now={now} label={`${now} %`} style={{ height: 30 }} />
         </div>
     )
 }
