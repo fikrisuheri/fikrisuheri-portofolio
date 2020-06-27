@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+.title{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 42px;
+    color: #61dafb;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 4px;
+}
+.about{
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+}
+.titleSkill {
+    color:#fff;
+    font-size:18px;
+}
